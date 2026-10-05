@@ -1,0 +1,9 @@
+label,text
+Low risk,Routine internal meeting notes. No sensitive personal information. General project updates and standard operational information.
+Low risk,Standard office procedure for requesting equipment and scheduling routine maintenance. No confidential information is included.
+Medium risk,"Internal vendor document contains pricing terms, service levels, renewal dates and operational contacts. Distribution should remain within the business."
+Medium risk,"Employee process document references internal systems, access procedures and department contacts. It should be handled as internal information."
+High risk,"Document contains bank account details, payment instructions, financial account information and confidential transaction records."
+High risk,"Document includes customer personal information, identity details, account numbers and confidential financial records requiring restricted access."
+Policy-specific,"Document describes data retention, privacy obligations, regulatory controls, audit requirements and policy exceptions that require compliance review."
+Policy-specific,"Document discusses regulatory reporting, legal obligations, compliance controls and approval requirements for handling sensitive information."
